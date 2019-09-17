@@ -3,6 +3,7 @@ import javax.swing.WindowConstants
 
 var nAge = 0
 var nLoan = 0
+
 fun main() {
     val reader = Scanner(System.`in`)
 
